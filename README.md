@@ -1,2 +1,13 @@
 # Library-Management-System-Java
-A simple Java-based console application that allows users to manage a library. Users can add fiction and non-fiction books, search for books, display all books, and remove books. This project demonstrates object-oriented programming concepts such as inheritance, encapsulation, method overriding, and the use of ArrayLists.
+
+## Features
+- Add fiction and non-fiction books
+- Search for books by title
+- Remove books from the library
+- Display all books in the library
+- Show details like title, author, price, and genre (for fiction)
+
+## Technologies
+- Java
+- NetBeans IDE
+- Object-Oriented Programming (OOP)
